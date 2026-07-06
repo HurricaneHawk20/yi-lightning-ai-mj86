@@ -1,4 +1,4 @@
-# 
+# Premium Yi-Lightning presets. Featuring automated-testing and fine-tuning — optimized for maximum performance and efficiency.
 
 
 
